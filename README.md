@@ -1,10 +1,16 @@
-## Hi there 👋 This is Zhi-Yi's GitHub Profile
+## Hi there 👋 This is [Zhi-Yi's](https://joycenerd.github.io/) GitHub Profile
 
-🍀 I'm [Zhi-Yi Chin](https://joycenerd.github.io/). I'm a research assistant in [@NYCU-RL-Bandits-Lab](https://github.com/NYCU-RL-Bandits-Lab) at [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw/nycu/en) working with [Ping-Chun Hsieh](https://pinghsieh.github.io/)
-and collaborating closely with [Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage) from IBM and [Mario Fritz](https://cispa.saarland/group/fritz/) from CISPA.
+🍀 I'm a researcher focused on **AI safety, interpretability, and trustworthy machine learning**.
 
-👀 My research primarily explores **AI Safety**, with a particular emphasis on ensuring the trustworthiness of multimodal generative models. I also have a strong interest in alignment, interpretability, and generalization strategies for building more robust and reliable AI systems.
+👀 Currently, I'm a visiting research fellow at the University of Oxford working with [Fazl Barez](https://fazl.barez.me/) on scalable interpretability methods for LLM capability analysis and safety benchmarking. I'm also a research assistant at the [@NYCU-RL-Bandits-Lab](https://github.com/NYCU-RL-Bandits-Lab) at [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw/nycu/en) working with [Ping-Chun Hsieh](https://pinghsieh.github.io/) on RL backdoor attack detection and post-hoc interpretation of text-to-image model misbehavior, collaborating closely with [Pin-Yu Chen](https://sites.google.com/site/pinyuchenpage) from IBM Research. I'll be starting my PhD at [CISPA Helmholtz Center for Information Security](https://cispa.de/en) soon, where I'll work with [Mario Fritz](https://cispa.saarland/group/fritz/) on trustworthy AI systems.
 
+### 🔬 Research Interests
+- AI safety & red-teaming
+- Trustworthy text-to-image generation
+- Reinforcement learning security
+- Interpretability & mechanistic understanding
+
+### 📫 Get in Touch
 [📄 CV](https://drive.google.com/file/d/1GFdKVRZUrKHfwYhhCIQCeyM2108VLAnW/view?usp=sharing) /
 [🐦 Twitter](https://x.com/zhiyichin) /
 [🐱 GitHub](https://github.com/joycenerd) /
