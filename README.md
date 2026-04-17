@@ -1,4 +1,4 @@
-## Hi there 👋 This is [Zhi-Yi's](https://joycenerd.github.io/) GitHub Profile
+## Hi there 👋 This is [Zhi-Yi's](https://zhiyichin.github.io/) GitHub Profile
 
 🍀 I'm a researcher focused on **AI safety, interpretability, and trustworthy machine learning**.
 
@@ -16,13 +16,13 @@
 [🐱 GitHub](https://github.com/joycenerd) /
 [🎓 Google Scholar](https://scholar.google.com/citations?user=7VWH7r0AAAAJ) /
 [💼 LinkedIn](https://www.linkedin.com/in/zhi-yi-chin-b7927645/) /
-[📷 Instagram](https://www.instagram.com/joycechin3.1415/) /
-[🧵 Threads](https://www.threads.net/@joycechin3.1415) /
-[📘 Facebook](https://www.facebook.com/joycenerd1998/)
+[📷 Instagram](https://www.instagram.com/zhiyichin/) /
+[🧵 Threads](https://www.threads.net/@zhiyichin) /
+[📘 Facebook](https://www.facebook.com/zhiyichin.h/)
 
 In my free time, I enjoy 🏃running, 📚reading, and exploring 🧁dessert and ☕️coffee shops.
 
-I would like to connect if you have similar interests in all the things I've mentioned above (AI Safety research, running, reading, dessert, coffee). Please feel free reaching out to me at [joycenerd.cs09[AT]nycu.edu.tw](mailto:joycenerd.cs09@nycu.edu.tw)
+I would like to connect if you have similar interests in all the things I've mentioned above (AI Safety research, running, reading, dessert, coffee). Please feel free reaching out to me at [zchin31415[AT]gmail.com](mailto:zchin31415@gmail.com)
 
 You are the 👇 visitor who visits my profile 😆
 
