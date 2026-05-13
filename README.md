@@ -13,7 +13,7 @@
 ### 📫 Get in Touch
 [📄 CV](https://drive.google.com/file/d/1GFdKVRZUrKHfwYhhCIQCeyM2108VLAnW/view?usp=sharing) /
 [🐦 Twitter](https://x.com/zhiyichin) /
-[🐱 GitHub](https://github.com/joycenerd) /
+[🐱 GitHub](https://github.com/zhiyichin) /
 [🎓 Google Scholar](https://scholar.google.com/citations?user=7VWH7r0AAAAJ) /
 [💼 LinkedIn](https://www.linkedin.com/in/zhi-yi-chin-b7927645/) /
 [📷 Instagram](https://www.instagram.com/zhiyichin/) /
